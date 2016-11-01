@@ -1,0 +1,119 @@
+卢松松
+	账号：feelbat	密码：honglu	
+
+百度商桥
+	百度直达号登录，另外，新建了一个客服账号
+
+闵行区闵北路88弄1-30号第22幢BV134室
+
+
+
+
+http://feelbat.com/wechat.do
+http%3a%2f%2fwww.feelbat.com
+feelBat13579
+-----------------feelbat--------------------------
+
+wx3594a2b351f5ff24
+2e4102822538ecaa44669d529aabcfbc
+
+
+gh_d835627e34eb
+feelbat
+
+
+
+关注公众号，通过菜单进入
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx3594a2b351f5ff24&redirect_uri=http%3a%2f%2fwww.feelbat.com%2foauth%2foauth%2f&response_type=code&scope=snsapi_userinfo&state=wechatmenu#wechat_redirect
+
+https://api.weixin.qq.com/sns/oauth2/access_token?appid=wx3594a2b351f5ff24&secret=2e4102822538ecaa44669d529aabcfbc&code=CODE&grant_type=authorization_code
+
+微信客户端扫码登录
+https://open.weixin.qq.com/connect/qrconnect?appid=wx101e679b9d0fc600&redirect_uri=http%3a%2f%2fwww.feelbat.com%2foauth%2foauth&response_type=code&scope=snsapi_login&state=scanning#wechat_redirect
+
+
+-------------------------------nahuo-8--------------------------
+wx5b0a6dd7d54e41d2
+0d3522e4bab61d2e8656b9eb7fde84a4
+gh_ed4d20e5f5ee
+
+
+pZfWiQaVctIaQoj7jl8soXm6PEp9QjL0rvtvqjp2-LSoUCoM5eMqk3_acbFbatWakG656780-IZY6_8WILW-l1r0TwEeFrRRKUnjqhYuGZI
+navi
+-------------------------------------测试号-----------------------------------------------------------------------
+wxcaabbd2b0f981821
+657255f27ae5a55f440e9a27948c763d
+gh_a12d99b02339
+
+qgm	oaFzzsmmkD-rJ_9WKVBDrl85LAAE
+zw	oaFzzsk2FJZB5c4E5BBZ4u22rZtU
+
+X8XlXBTR8kHE0ruf1LHyER_U3xMEJXRwMX773uOASLgSk5ogoQCJkHBxJR43C5YsFZXTH3aPANUesz9qLKqdj_t_uw7oaXkGoyNEpXka3ScJVMjADANZQ
+https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wxcaabbd2b0f981821&secret=657255f27ae5a55f440e9a27948c763d
+
+-----------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+
+微信开放平台
+飞巴网
+wx101e679b9d0fc600
+4ec5a3c3087559cb028173b6c6dc6e97
+
+------------------------------------------------------------------------------------------------------------
+
+QQ互联平台
+
+飞巴网（http://www.feelbat.com），专注移动互联网，助力企业转型，我们的口号是“体验巨头，连接巨头”。
+因业务发展需要，现招募一批实体广告商铺合作，诚挚邀请您的加入。
+
+
+
+{
+ 	"button":[
+ 	{	
+    	"type":"click",
+    	"name":"搜索引擎",
+     	"key":"V1001_TODAY_MUSIC" 
+	}]
+}
+
+https://api.weixin.qq.com/cgi-bin/menu/addconditional?access_token=jugGP8O7-9_hZvO25FI4BhgCz5L4fBF9mLpwheUR4MuVNkDiEGuvPNrLFnVvcvHE4oMr64LmnLg2cN2IixaOTrVOfB_c-_CNkMkQOCvv0DYEYReAIALFY
+
+{
+ 	"button":[
+ 	{	
+    	"type":"click",
+    	"name":"三巨头",
+     	"key":"V1001_TODAY_MUSIC" 
+	}],
+"matchrule":{
+  "group_id":"2"}
+}
+
+{
+ 	"button":[
+ 	{	
+    	"type":"click",
+    	"name":"测试菜单",
+     	"key":"V1001_TODAY_MUSIC" 
+	}],
+"matchrule":{
+  "group_id":"100"}
+}
+
+{
+ 	"button":[
+ 	{	
+    	"type":"click",
+    	"name":"电商",
+     	"key":"V1001_TODAY_MUSIC" 
+	}],
+"matchrule":{
+  "group_id":"101"}
+}
+
